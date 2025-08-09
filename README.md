@@ -4,11 +4,13 @@ This API offers comprehensive and up-to-date information on movies, TV shows, an
 
 Support the developers: https://www.buymeacoffee.com/SAdrian13
 
+---
 
 ## Version
 
 v1.0
 
+---
 
 ## Available Endpoints
 
@@ -185,3 +187,5 @@ In your code, always check HTTP response status codes and handle errors appropri
 
 - **Monitor Usage:**  
   Track your API usage to avoid hitting unknown limits and to optimize your application's interaction with the API.
+
+---
